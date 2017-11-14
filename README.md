@@ -1,6 +1,26 @@
 # You-Dont-Know-JS-zh_CN
 You Dont Know JS 中文版
 
+初次翻译，请多指教
+
+
+
+#### 目录
+
+[1.什么是作用域](./Chapter1/What is Scope?.md)
+
+2.词法作用域
+
+3.方法和块作用域
+
+4.提升
+
+
+
+
+
+
+
 
 ### LICENSE
 
