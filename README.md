@@ -7,6 +7,8 @@ You Dont Know JS 中文版
 
 #### 目录
 
+##### book1 作用域和闭包
+
 [1. 什么是作用域](./book1/ch1.md)
 
 [2. 词法作用域](./book1/ch2.md)
@@ -15,7 +17,7 @@ You Dont Know JS 中文版
 
 [4.提升](./book1/ch4.md)
 
-[5.作用域和闭包](./book1/ch5.md)
+[5.作用域闭包](./book1/ch5.md)
 
 
 
