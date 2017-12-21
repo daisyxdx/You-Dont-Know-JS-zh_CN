@@ -21,6 +21,8 @@ You Dont Know JS 中文版
 
 [附录A-动态作用域](./book1/ada.md)
 
+[附录B-块作用域的polyfill](./book1/apb.md)
+
 
 
 
