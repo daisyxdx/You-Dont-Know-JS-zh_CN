@@ -19,7 +19,7 @@ You Dont Know JS 中文版
 
 [5.作用域闭包](./book1/ch5.md)
 
-[6.附录A-动态作用域](./book1/ada.md)
+[附录A-动态作用域](./book1/ada.md)
 
 
 
