@@ -23,6 +23,8 @@ You Dont Know JS 中文版
 
 [附录B-块作用域的polyfill](./book1/apb.md)
 
+[附录C-词法this](./book1/apc.md)
+
 
 
 
