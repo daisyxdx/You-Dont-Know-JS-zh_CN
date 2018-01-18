@@ -27,6 +27,18 @@ You Dont Know JS 中文版
 
 
 
+##### book2 this和对象原型
+
+[1.this的初步认知](./book2/ch1.md)
+
+
+
+
+
+
+
+
+
 
 
 
