@@ -31,7 +31,7 @@ You Dont Know JS 中文版
 
 [1.this的初步认知](./book2/ch1.md)
 
-
+[2.this详解](./book2/ch2.md)
 
 
 
