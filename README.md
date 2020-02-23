@@ -1,7 +1,7 @@
 # You-Dont-Know-JS-zh_CN
 You Dont Know JS 中文版
 
-初次翻译，请多指教
+瞎jb翻，请多指教
 
 
 
